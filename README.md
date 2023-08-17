@@ -1,1 +1,1 @@
-# pos-release
+# CODY POS release manager
